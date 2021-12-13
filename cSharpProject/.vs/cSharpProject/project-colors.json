@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ce3a85b-23ce-4b65-bd2d-bf949175cde9": {
+      "ProjectGuid": "6ce3a85b-23ce-4b65-bd2d-bf949175cde9",
+      "DisplayName": "cSharpProject",
+      "ColorIndex": 0
+    },
+    "97b9c31f-ee6c-445c-8199-aee990f23a20": {
+      "ProjectGuid": "97b9c31f-ee6c-445c-8199-aee990f23a20",
+      "DisplayName": "ScraperLibrary",
+      "ColorIndex": 1
+    },
+    "7f7221e1-92b0-4a18-b09d-5086ef731600": {
+      "ProjectGuid": "7f7221e1-92b0-4a18-b09d-5086ef731600",
+      "DisplayName": "ScraperTest.Moq",
+      "ColorIndex": 2
+    },
+    "187b35ef-75bb-415c-bbd9-8196a8f5e654": {
+      "ProjectGuid": "187b35ef-75bb-415c-bbd9-8196a8f5e654",
+      "DisplayName": "ScraperNUnitTests",
+      "ColorIndex": 3
+    },
+    "8bb6d675-0779-4559-b40d-2c608c3fc471": {
+      "ProjectGuid": "8bb6d675-0779-4559-b40d-2c608c3fc471",
+      "DisplayName": "cSharpProject.UnitTests",
+      "ColorIndex": 4
+    },
+    "b2a2d3ba-3027-4f3e-8675-f216d36c3441": {
+      "ProjectGuid": "b2a2d3ba-3027-4f3e-8675-f216d36c3441",
+      "DisplayName": "ScraperLibrary.UnitTests",
+      "ColorIndex": 5
+    },
+    "f1dfc173-ac10-4ff0-b3fc-ff31c0318449": {
+      "ProjectGuid": "f1dfc173-ac10-4ff0-b3fc-ff31c0318449",
+      "DisplayName": "UrlApi.Moq",
+      "ColorIndex": 6
+    },
+    "f065b82c-ee49-452e-98f3-482e84f5e103": {
+      "ProjectGuid": "f065b82c-ee49-452e-98f3-482e84f5e103",
+      "DisplayName": "API.Moq",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
