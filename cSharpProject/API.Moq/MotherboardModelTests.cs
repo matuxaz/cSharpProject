@@ -12,7 +12,7 @@ namespace API.Moq
     public class MotherboardModelTests
     {
         [Fact]
-        public async Task GetHtmlAsync_ShouldReturnEmptyList_WhenCannotConnectEver()
+        public void GetHtmlAsync_ShouldReturnEmptyList_WhenCannotConnectEver()
         {
 
             Mock<Motherboard> mock = new Mock<Motherboard>();

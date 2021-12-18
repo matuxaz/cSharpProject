@@ -5437,11 +5437,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matol\\OneDrive\\Desktop\\cSharpProject\\ScraperLibrary\\ScraperLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\matol\\OneDrive\\Documents\\GitHub\\cSharpProject\\cSharpProject\\ScraperLibrary\\ScraperLibrary.csproj",
       "projectName": "ScraperLibrary",
-      "projectPath": "C:\\Users\\matol\\OneDrive\\Desktop\\cSharpProject\\ScraperLibrary\\ScraperLibrary.csproj",
+      "projectPath": "C:\\Users\\matol\\OneDrive\\Documents\\GitHub\\cSharpProject\\cSharpProject\\ScraperLibrary\\ScraperLibrary.csproj",
       "packagesPath": "C:\\Users\\matol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matol\\OneDrive\\Desktop\\cSharpProject\\ScraperLibrary\\obj\\",
+      "outputPath": "C:\\Users\\matol\\OneDrive\\Documents\\GitHub\\cSharpProject\\cSharpProject\\ScraperLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matol\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -43,14 +43,13 @@ namespace ScraperLibrary
             var moboPage = 1;
             var moboUrl2 = "&page_per=72";
             var MoboHtmlDocument = new HtmlDocument();
-            Motherboard m = new Motherboard();
 
             while (true)
             {
                 //creating url for every page
                 var moboUrl = moboUrl1 + moboPage.ToString() + moboUrl2;
 
-                var moboHtml = m.getHtml(moboUrl);
+                var moboHtml = getHtml(moboUrl);
 
                 if (moboHtml == "Error")//exit writing to list if cannot connect or everything has been scraped
                 {

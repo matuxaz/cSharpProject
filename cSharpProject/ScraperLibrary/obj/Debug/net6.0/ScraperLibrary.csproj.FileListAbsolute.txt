@@ -22,3 +22,15 @@ C:\Users\matol\OneDrive\Desktop\cSharpProject\ScraperLibrary\obj\Debug\net6.0\Sc
 C:\Users\matol\OneDrive\Desktop\cSharpProject\ScraperLibrary\obj\Debug\net6.0\ScraperLibrary.dll
 C:\Users\matol\OneDrive\Desktop\cSharpProject\ScraperLibrary\obj\Debug\net6.0\ref\ScraperLibrary.dll
 C:\Users\matol\OneDrive\Desktop\cSharpProject\ScraperLibrary\obj\Debug\net6.0\ScraperLibrary.pdb
+C:\Users\matol\OneDrive\Documents\GitHub\cSharpProject\cSharpProject\ScraperLibrary\bin\Debug\net6.0\ScraperLibrary.deps.json
+C:\Users\matol\OneDrive\Documents\GitHub\cSharpProject\cSharpProject\ScraperLibrary\bin\Debug\net6.0\ScraperLibrary.dll
+C:\Users\matol\OneDrive\Documents\GitHub\cSharpProject\cSharpProject\ScraperLibrary\bin\Debug\net6.0\ref\ScraperLibrary.dll
+C:\Users\matol\OneDrive\Documents\GitHub\cSharpProject\cSharpProject\ScraperLibrary\bin\Debug\net6.0\ScraperLibrary.pdb
+C:\Users\matol\OneDrive\Documents\GitHub\cSharpProject\cSharpProject\ScraperLibrary\obj\Debug\net6.0\ScraperLibrary.csproj.AssemblyReference.cache
+C:\Users\matol\OneDrive\Documents\GitHub\cSharpProject\cSharpProject\ScraperLibrary\obj\Debug\net6.0\ScraperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matol\OneDrive\Documents\GitHub\cSharpProject\cSharpProject\ScraperLibrary\obj\Debug\net6.0\ScraperLibrary.AssemblyInfoInputs.cache
+C:\Users\matol\OneDrive\Documents\GitHub\cSharpProject\cSharpProject\ScraperLibrary\obj\Debug\net6.0\ScraperLibrary.AssemblyInfo.cs
+C:\Users\matol\OneDrive\Documents\GitHub\cSharpProject\cSharpProject\ScraperLibrary\obj\Debug\net6.0\ScraperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\matol\OneDrive\Documents\GitHub\cSharpProject\cSharpProject\ScraperLibrary\obj\Debug\net6.0\ScraperLibrary.dll
+C:\Users\matol\OneDrive\Documents\GitHub\cSharpProject\cSharpProject\ScraperLibrary\obj\Debug\net6.0\ref\ScraperLibrary.dll
+C:\Users\matol\OneDrive\Documents\GitHub\cSharpProject\cSharpProject\ScraperLibrary\obj\Debug\net6.0\ScraperLibrary.pdb

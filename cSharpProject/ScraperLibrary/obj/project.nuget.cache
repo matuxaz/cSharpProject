@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SVBpcuxrki1VR18mG5MWhlEid7ayehKoUiXS9bXFmUMvZjXAW/2H6I9CnzLoUpRIRE3py/h6x8Xm2GKTl3nOPQ==",
+  "dgSpecHash": "wwQOmxAA110No4COnbASZnsAg7X9xeP//GhOrEE23gWgxLFoLdJv2gx+WLa/IhhNsFQGJAsXNjoYaLCqXDF+ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matol\\OneDrive\\Desktop\\cSharpProject\\ScraperLibrary\\ScraperLibrary.csproj",
+  "projectFilePath": "C:\\Users\\matol\\OneDrive\\Documents\\GitHub\\cSharpProject\\cSharpProject\\ScraperLibrary\\ScraperLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matol\\.nuget\\packages\\google.apis\\1.41.1\\google.apis.1.41.1.nupkg.sha512",
     "C:\\Users\\matol\\.nuget\\packages\\google.apis.auth\\1.41.1\\google.apis.auth.1.41.1.nupkg.sha512",

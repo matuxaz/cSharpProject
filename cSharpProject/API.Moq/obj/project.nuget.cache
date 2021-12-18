@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OrC56YmQOjJbhVR2wdWEj6lS5lBKWQZANeeqme5b5epkncbT+zow3bkAEeE0ekwKBRJ6APcvoiVAnfft/hpZbw==",
+  "dgSpecHash": "nF8ZaON8kaaaiNUWSRtNQZpiO5rG905oLdAeSNrWUjt6pcD6D9xc3eOuTu9++jdXspqQmwAtFAY+WfMg4z0Lcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matol\\OneDrive\\Desktop\\cSharpProject\\API.Moq\\API.Moq.csproj",
+  "projectFilePath": "C:\\Users\\matol\\OneDrive\\Documents\\GitHub\\cSharpProject\\cSharpProject\\API.Moq\\API.Moq.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matol\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\matol\\.nuget\\packages\\autofac.extras.moq\\6.1.0\\autofac.extras.moq.6.1.0.nupkg.sha512",
